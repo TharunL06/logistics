@@ -93,7 +93,7 @@ const DetailedPage = () => {
         )}
 
         <button type="submit" className="mt-4 bg-green-600 text-white p-2 rounded">
-          Submit
+          Continue
         </button>
       </form>
     </div>
